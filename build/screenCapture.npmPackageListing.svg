@@ -1,214 +1,214 @@
 <svg height="3374" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3374" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 09:05:58 +0000   798548 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 09:05:58 +0000     7850 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 09:05:58 +0000     4867 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 09:05:58 +0000     7211 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 09:05:58 +0000     1109 bytes  LICENSE</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 09:05:58 +0000     4859 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 09:05:58 +0000      592 bytes  bower.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 09:05:58 +0000      629 bytes  composer.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 09:05:58 +0000     7768 bytes  dist/css/bootstrap-select.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 09:05:58 +0000    16645 bytes  dist/css/bootstrap-select.css.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 09:05:58 +0000     6655 bytes  dist/css/bootstrap-select.min.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 09:05:58 +0000    71727 bytes  dist/js/bootstrap-select.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 09:05:58 +0000    39003 bytes  dist/js/bootstrap-select.js.map</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 09:05:58 +0000    33963 bytes  dist/js/bootstrap-select.min.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 09:05:58 +0000     1882 bytes  dist/js/i18n/defaults-ar_AR.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 09:05:58 +0000     1308 bytes  dist/js/i18n/defaults-ar_AR.min.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 09:05:58 +0000     1755 bytes  dist/js/i18n/defaults-bg_BG.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 09:05:58 +0000     1186 bytes  dist/js/i18n/defaults-bg_BG.min.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 09:05:58 +0000     1546 bytes  dist/js/i18n/defaults-cro_CRO.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 09:05:58 +0000      977 bytes  dist/js/i18n/defaults-cro_CRO.min.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 09:05:58 +0000     1153 bytes  dist/js/i18n/defaults-cs_CZ.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 09:05:58 +0000      735 bytes  dist/js/i18n/defaults-cs_CZ.min.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 09:05:58 +0000     1484 bytes  dist/js/i18n/defaults-da_DK.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 09:05:58 +0000      897 bytes  dist/js/i18n/defaults-da_DK.min.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 09:05:58 +0000     1521 bytes  dist/js/i18n/defaults-de_DE.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 09:05:58 +0000      952 bytes  dist/js/i18n/defaults-de_DE.min.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 09:05:58 +0000     1469 bytes  dist/js/i18n/defaults-en_US.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 09:05:58 +0000      900 bytes  dist/js/i18n/defaults-en_US.min.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 09:05:58 +0000     1239 bytes  dist/js/i18n/defaults-es_CL.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 09:05:58 +0000      807 bytes  dist/js/i18n/defaults-es_CL.min.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 09:05:58 +0000     1239 bytes  dist/js/i18n/defaults-es_ES.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 09:05:58 +0000      807 bytes  dist/js/i18n/defaults-es_ES.min.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 09:05:58 +0000     1155 bytes  dist/js/i18n/defaults-eu.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 09:05:58 +0000      737 bytes  dist/js/i18n/defaults-eu.min.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 09:05:58 +0000     1357 bytes  dist/js/i18n/defaults-fa_IR.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 09:05:58 +0000      895 bytes  dist/js/i18n/defaults-fa_IR.min.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 09:05:58 +0000     1496 bytes  dist/js/i18n/defaults-fi_FI.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 09:05:58 +0000      828 bytes  dist/js/i18n/defaults-fi_FI.min.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 09:05:58 +0000     1546 bytes  dist/js/i18n/defaults-fr_FR.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 09:05:58 +0000      976 bytes  dist/js/i18n/defaults-fr_FR.min.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 09:05:58 +0000     1322 bytes  dist/js/i18n/defaults-hu_HU.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 09:05:58 +0000      798 bytes  dist/js/i18n/defaults-hu_HU.min.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 09:05:58 +0000     1187 bytes  dist/js/i18n/defaults-id_ID.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 09:05:58 +0000      757 bytes  dist/js/i18n/defaults-id_ID.min.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-21 09:05:58 +0000     1344 bytes  dist/js/i18n/defaults-it_IT.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-21 09:05:58 +0000      860 bytes  dist/js/i18n/defaults-it_IT.min.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-21 09:05:58 +0000     1383 bytes  dist/js/i18n/defaults-ko_KR.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-21 09:05:58 +0000      859 bytes  dist/js/i18n/defaults-ko_KR.min.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-21 09:05:58 +0000     1564 bytes  dist/js/i18n/defaults-lt_LT.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-21 09:05:58 +0000      995 bytes  dist/js/i18n/defaults-lt_LT.min.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-21 09:05:58 +0000     1490 bytes  dist/js/i18n/defaults-nb_NO.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-21 09:05:58 +0000      834 bytes  dist/js/i18n/defaults-nb_NO.min.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-21 09:05:58 +0000     1154 bytes  dist/js/i18n/defaults-nl_NL.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-21 09:05:58 +0000      736 bytes  dist/js/i18n/defaults-nl_NL.min.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-21 09:05:58 +0000     1237 bytes  dist/js/i18n/defaults-pl_PL.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-21 09:05:58 +0000      805 bytes  dist/js/i18n/defaults-pl_PL.min.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-21 09:05:58 +0000     1154 bytes  dist/js/i18n/defaults-pt_BR.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-21 09:05:58 +0000      736 bytes  dist/js/i18n/defaults-pt_BR.min.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-21 09:05:58 +0000     1145 bytes  dist/js/i18n/defaults-pt_PT.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-21 09:05:58 +0000      751 bytes  dist/js/i18n/defaults-pt_PT.min.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-21 09:05:58 +0000     1169 bytes  dist/js/i18n/defaults-ro_RO.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-21 09:05:58 +0000      751 bytes  dist/js/i18n/defaults-ro_RO.min.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-21 09:05:58 +0000     1390 bytes  dist/js/i18n/defaults-ru_RU.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-21 09:05:58 +0000      947 bytes  dist/js/i18n/defaults-ru_RU.min.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-21 09:05:58 +0000     1262 bytes  dist/js/i18n/defaults-sk_SK.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-21 09:05:58 +0000      830 bytes  dist/js/i18n/defaults-sk_SK.min.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-21 09:05:58 +0000     1337 bytes  dist/js/i18n/defaults-sl_SI.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-21 09:05:58 +0000      814 bytes  dist/js/i18n/defaults-sl_SI.min.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-21 09:05:58 +0000     1387 bytes  dist/js/i18n/defaults-sv_SE.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-21 09:05:58 +0000      846 bytes  dist/js/i18n/defaults-sv_SE.min.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-21 09:05:58 +0000     1546 bytes  dist/js/i18n/defaults-tr_TR.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-21 09:05:58 +0000      892 bytes  dist/js/i18n/defaults-tr_TR.min.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-21 09:05:58 +0000     1236 bytes  dist/js/i18n/defaults-ua_UA.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-21 09:05:58 +0000      818 bytes  dist/js/i18n/defaults-ua_UA.min.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-21 09:05:58 +0000     1131 bytes  dist/js/i18n/defaults-zh_CN.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-21 09:05:58 +0000      715 bytes  dist/js/i18n/defaults-zh_CN.min.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-21 09:05:58 +0000     1208 bytes  dist/js/i18n/defaults-zh_TW.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-21 09:05:58 +0000      778 bytes  dist/js/i18n/defaults-zh_TW.min.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-21 09:05:58 +0000     4460 bytes  docs/custom_theme/base.html</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-21 09:05:58 +0000     2544 bytes  docs/custom_theme/css/base.css</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-21 09:05:58 +0000    14278 bytes  docs/custom_theme/img/logos/convertizer.png</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-21 09:05:58 +0000     6274 bytes  docs/custom_theme/img/logos/estimateit.png</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-21 09:05:58 +0000    10383 bytes  docs/custom_theme/img/logos/membermeister.png</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-21 09:05:58 +0000    30441 bytes  docs/custom_theme/img/logos/snapappointments.png</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-21 09:05:58 +0000    12766 bytes  docs/custom_theme/img/logos/solveforall.png</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-21 09:05:58 +0000     5817 bytes  docs/custom_theme/img/logos/thermofisher.png</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-21 09:05:58 +0000      443 bytes  docs/custom_theme/js/base.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-21 09:05:58 +0000     2021 bytes  docs/custom_theme/nav.html</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-21 09:05:58 +0000      510 bytes  docs/custom_theme/toc.html</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-21 09:05:58 +0000     5685 bytes  docs/docs/css/custom.css</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-21 09:05:58 +0000     7768 bytes  docs/docs/dist/css/bootstrap-select.css</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-21 09:05:58 +0000    16645 bytes  docs/docs/dist/css/bootstrap-select.css.map</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-21 09:05:58 +0000     6655 bytes  docs/docs/dist/css/bootstrap-select.min.css</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-21 09:05:58 +0000    71727 bytes  docs/docs/dist/js/bootstrap-select.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-21 09:05:58 +0000    39003 bytes  docs/docs/dist/js/bootstrap-select.js.map</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-21 09:05:58 +0000    33963 bytes  docs/docs/dist/js/bootstrap-select.min.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-21 09:05:58 +0000     1882 bytes  docs/docs/dist/js/i18n/defaults-ar_AR.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-21 09:05:58 +0000     1308 bytes  docs/docs/dist/js/i18n/defaults-ar_AR.min.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-21 09:05:58 +0000     1755 bytes  docs/docs/dist/js/i18n/defaults-bg_BG.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-21 09:05:58 +0000     1186 bytes  docs/docs/dist/js/i18n/defaults-bg_BG.min.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-21 09:05:58 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-cro_CRO.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-21 09:05:58 +0000      977 bytes  docs/docs/dist/js/i18n/defaults-cro_CRO.min.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-21 09:05:58 +0000     1153 bytes  docs/docs/dist/js/i18n/defaults-cs_CZ.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-21 09:05:58 +0000      735 bytes  docs/docs/dist/js/i18n/defaults-cs_CZ.min.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-21 09:05:58 +0000     1484 bytes  docs/docs/dist/js/i18n/defaults-da_DK.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-21 09:05:58 +0000      897 bytes  docs/docs/dist/js/i18n/defaults-da_DK.min.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-21 09:05:58 +0000     1521 bytes  docs/docs/dist/js/i18n/defaults-de_DE.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-21 09:05:58 +0000      952 bytes  docs/docs/dist/js/i18n/defaults-de_DE.min.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-21 09:05:58 +0000     1469 bytes  docs/docs/dist/js/i18n/defaults-en_US.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-21 09:05:58 +0000      900 bytes  docs/docs/dist/js/i18n/defaults-en_US.min.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-21 09:05:58 +0000     1239 bytes  docs/docs/dist/js/i18n/defaults-es_CL.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-21 09:05:58 +0000      807 bytes  docs/docs/dist/js/i18n/defaults-es_CL.min.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-21 09:05:58 +0000     1239 bytes  docs/docs/dist/js/i18n/defaults-es_ES.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-21 09:05:58 +0000      807 bytes  docs/docs/dist/js/i18n/defaults-es_ES.min.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-21 09:05:58 +0000     1155 bytes  docs/docs/dist/js/i18n/defaults-eu.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-21 09:05:58 +0000      737 bytes  docs/docs/dist/js/i18n/defaults-eu.min.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-21 09:05:58 +0000     1357 bytes  docs/docs/dist/js/i18n/defaults-fa_IR.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-21 09:05:58 +0000      895 bytes  docs/docs/dist/js/i18n/defaults-fa_IR.min.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-21 09:05:58 +0000     1496 bytes  docs/docs/dist/js/i18n/defaults-fi_FI.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-21 09:05:58 +0000      828 bytes  docs/docs/dist/js/i18n/defaults-fi_FI.min.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-21 09:05:58 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-fr_FR.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-21 09:05:58 +0000      976 bytes  docs/docs/dist/js/i18n/defaults-fr_FR.min.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-21 09:05:58 +0000     1322 bytes  docs/docs/dist/js/i18n/defaults-hu_HU.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-21 09:05:58 +0000      798 bytes  docs/docs/dist/js/i18n/defaults-hu_HU.min.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-21 09:05:58 +0000     1187 bytes  docs/docs/dist/js/i18n/defaults-id_ID.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-21 09:05:58 +0000      757 bytes  docs/docs/dist/js/i18n/defaults-id_ID.min.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-21 09:05:58 +0000     1344 bytes  docs/docs/dist/js/i18n/defaults-it_IT.js</tspan>
-<tspan x="10" y="2058">127.  2017-04-21 09:05:58 +0000      860 bytes  docs/docs/dist/js/i18n/defaults-it_IT.min.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-21 09:05:58 +0000     1383 bytes  docs/docs/dist/js/i18n/defaults-ko_KR.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-21 09:05:58 +0000      859 bytes  docs/docs/dist/js/i18n/defaults-ko_KR.min.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-21 09:05:58 +0000     1564 bytes  docs/docs/dist/js/i18n/defaults-lt_LT.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-21 09:05:58 +0000      995 bytes  docs/docs/dist/js/i18n/defaults-lt_LT.min.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-21 09:05:58 +0000     1490 bytes  docs/docs/dist/js/i18n/defaults-nb_NO.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-21 09:05:58 +0000      834 bytes  docs/docs/dist/js/i18n/defaults-nb_NO.min.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-21 09:05:58 +0000     1154 bytes  docs/docs/dist/js/i18n/defaults-nl_NL.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-21 09:05:58 +0000      736 bytes  docs/docs/dist/js/i18n/defaults-nl_NL.min.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-21 09:05:58 +0000     1237 bytes  docs/docs/dist/js/i18n/defaults-pl_PL.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-21 09:05:58 +0000      805 bytes  docs/docs/dist/js/i18n/defaults-pl_PL.min.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-21 09:05:58 +0000     1154 bytes  docs/docs/dist/js/i18n/defaults-pt_BR.js</tspan>
-<tspan x="10" y="2250">139.  2017-04-21 09:05:58 +0000      736 bytes  docs/docs/dist/js/i18n/defaults-pt_BR.min.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-21 09:05:58 +0000     1145 bytes  docs/docs/dist/js/i18n/defaults-pt_PT.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-21 09:05:58 +0000      751 bytes  docs/docs/dist/js/i18n/defaults-pt_PT.min.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-21 09:05:58 +0000     1169 bytes  docs/docs/dist/js/i18n/defaults-ro_RO.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-21 09:05:58 +0000      751 bytes  docs/docs/dist/js/i18n/defaults-ro_RO.min.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-21 09:05:58 +0000     1390 bytes  docs/docs/dist/js/i18n/defaults-ru_RU.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-21 09:05:58 +0000      947 bytes  docs/docs/dist/js/i18n/defaults-ru_RU.min.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-21 09:05:58 +0000     1262 bytes  docs/docs/dist/js/i18n/defaults-sk_SK.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-21 09:05:58 +0000      830 bytes  docs/docs/dist/js/i18n/defaults-sk_SK.min.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-21 09:05:58 +0000     1337 bytes  docs/docs/dist/js/i18n/defaults-sl_SI.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-21 09:05:58 +0000      814 bytes  docs/docs/dist/js/i18n/defaults-sl_SI.min.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-21 09:05:58 +0000     1387 bytes  docs/docs/dist/js/i18n/defaults-sv_SE.js</tspan>
-<tspan x="10" y="2442">151.  2017-04-21 09:05:58 +0000      846 bytes  docs/docs/dist/js/i18n/defaults-sv_SE.min.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-21 09:05:58 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-tr_TR.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-21 09:05:58 +0000      892 bytes  docs/docs/dist/js/i18n/defaults-tr_TR.min.js</tspan>
-<tspan x="10" y="2490">154.  2017-04-21 09:05:58 +0000     1236 bytes  docs/docs/dist/js/i18n/defaults-ua_UA.js</tspan>
-<tspan x="10" y="2506">155.  2017-04-21 09:05:58 +0000      818 bytes  docs/docs/dist/js/i18n/defaults-ua_UA.min.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-21 09:05:58 +0000     1131 bytes  docs/docs/dist/js/i18n/defaults-zh_CN.js</tspan>
-<tspan x="10" y="2538">157.  2017-04-21 09:05:58 +0000      715 bytes  docs/docs/dist/js/i18n/defaults-zh_CN.min.js</tspan>
-<tspan x="10" y="2554">158.  2017-04-21 09:05:58 +0000     1208 bytes  docs/docs/dist/js/i18n/defaults-zh_TW.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-21 09:05:58 +0000      778 bytes  docs/docs/dist/js/i18n/defaults-zh_TW.min.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-21 09:05:58 +0000    25227 bytes  docs/docs/examples.md</tspan>
-<tspan x="10" y="2602">161.  2017-04-21 09:05:58 +0000     3241 bytes  docs/docs/index.md</tspan>
-<tspan x="10" y="2618">162.  2017-04-21 09:05:58 +0000     6123 bytes  docs/docs/methods.md</tspan>
-<tspan x="10" y="2634">163.  2017-04-21 09:05:58 +0000    12205 bytes  docs/docs/options.md</tspan>
-<tspan x="10" y="2650">164.  2017-04-21 09:05:58 +0000      266 bytes  docs/docs/playground/index.html</tspan>
-<tspan x="10" y="2666">165.  2017-04-21 09:05:58 +0000     2139 bytes  docs/docs/playground/plnkrOpener.js</tspan>
-<tspan x="10" y="2682">166.  2017-04-21 09:05:58 +0000    10141 bytes  docs/docs/playground/test.html</tspan>
-<tspan x="10" y="2698">167.  2017-04-21 09:05:58 +0000      557 bytes  docs/mkdocs.yml</tspan>
-<tspan x="10" y="2714">168.  2017-04-21 09:05:58 +0000    70944 bytes  js/bootstrap-select.js</tspan>
-<tspan x="10" y="2730">169.  2017-04-21 09:05:58 +0000     1099 bytes  js/i18n/defaults-ar_AR.js</tspan>
-<tspan x="10" y="2746">170.  2017-04-21 09:05:58 +0000     1087 bytes  js/i18n/defaults-bg_BG.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-21 09:05:58 +0000      878 bytes  js/i18n/defaults-cro_CRO.js</tspan>
-<tspan x="10" y="2778">172.  2017-04-21 09:05:58 +0000      480 bytes  js/i18n/defaults-cs_CZ.js</tspan>
-<tspan x="10" y="2794">173.  2017-04-21 09:05:58 +0000      813 bytes  js/i18n/defaults-da_DK.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-21 09:05:58 +0000      872 bytes  js/i18n/defaults-de_DE.js</tspan>
-<tspan x="10" y="2826">175.  2017-04-21 09:05:58 +0000      805 bytes  js/i18n/defaults-en_US.js</tspan>
-<tspan x="10" y="2842">176.  2017-04-21 09:05:58 +0000      567 bytes  js/i18n/defaults-es_CL.js</tspan>
-<tspan x="10" y="2858">177.  2017-04-21 09:05:58 +0000      567 bytes  js/i18n/defaults-es_ES.js</tspan>
-<tspan x="10" y="2874">178.  2017-04-21 09:05:58 +0000      472 bytes  js/i18n/defaults-eu.js</tspan>
-<tspan x="10" y="2890">179.  2017-04-21 09:05:58 +0000      682 bytes  js/i18n/defaults-fa_IR.js</tspan>
-<tspan x="10" y="2906">180.  2017-04-21 09:05:58 +0000      826 bytes  js/i18n/defaults-fi_FI.js</tspan>
-<tspan x="10" y="2922">181.  2017-04-21 09:05:58 +0000      885 bytes  js/i18n/defaults-fr_FR.js</tspan>
-<tspan x="10" y="2938">182.  2017-04-21 09:05:58 +0000      654 bytes  js/i18n/defaults-hu_HU.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-21 09:05:58 +0000      540 bytes  js/i18n/defaults-id_ID.js</tspan>
-<tspan x="10" y="2970">184.  2017-04-21 09:05:58 +0000      740 bytes  js/i18n/defaults-it_IT.js</tspan>
-<tspan x="10" y="2986">185.  2017-04-21 09:05:58 +0000      716 bytes  js/i18n/defaults-ko_KR.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-21 09:05:58 +0000      899 bytes  js/i18n/defaults-lt_LT.js</tspan>
-<tspan x="10" y="3018">187.  2017-04-21 09:05:58 +0000      830 bytes  js/i18n/defaults-nb_NO.js</tspan>
-<tspan x="10" y="3034">188.  2017-04-21 09:05:58 +0000      530 bytes  js/i18n/defaults-nl_NL.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-21 09:05:58 +0000      565 bytes  js/i18n/defaults-pl_PL.js</tspan>
-<tspan x="10" y="3066">190.  2017-04-21 09:05:58 +0000      558 bytes  js/i18n/defaults-pt_BR.js</tspan>
-<tspan x="10" y="3082">191.  2017-04-21 09:05:58 +0000      542 bytes  js/i18n/defaults-pt_PT.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-21 09:05:58 +0000      538 bytes  js/i18n/defaults-ro_RO.js</tspan>
-<tspan x="10" y="3114">193.  2017-04-21 09:05:58 +0000      747 bytes  js/i18n/defaults-ru_RU.js</tspan>
-<tspan x="10" y="3130">194.  2017-04-21 09:05:58 +0000      590 bytes  js/i18n/defaults-sk_SK.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-21 09:05:58 +0000      670 bytes  js/i18n/defaults-sl_SI.js</tspan>
-<tspan x="10" y="3162">196.  2017-04-21 09:05:58 +0000      716 bytes  js/i18n/defaults-sv_SE.js</tspan>
-<tspan x="10" y="3178">197.  2017-04-21 09:05:58 +0000      900 bytes  js/i18n/defaults-tr_TR.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-21 09:05:58 +0000      590 bytes  js/i18n/defaults-ua_UA.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-21 09:05:58 +0000      459 bytes  js/i18n/defaults-zh_CN.js</tspan>
-<tspan x="10" y="3226">200.  2017-04-21 09:05:58 +0000      537 bytes  js/i18n/defaults-zh_TW.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-21 09:05:58 +0000     6744 bytes  less/bootstrap-select.less</tspan>
-<tspan x="10" y="3258">202.  2017-04-21 09:05:58 +0000      278 bytes  less/variables.less</tspan>
-<tspan x="10" y="3274">203.  2017-04-21 09:05:58 +0000     1035 bytes  nuget/MyGet.ps1</tspan>
-<tspan x="10" y="3290">204.  2017-04-21 09:05:58 +0000     1110 bytes  nuget/bootstrap-select.nuspec</tspan>
-<tspan x="10" y="3306">205.  2017-04-21 09:05:58 +0000     1819 bytes  package.json</tspan>
-<tspan x="10" y="3322">206.  2017-04-21 09:05:58 +0000     7166 bytes  sass/bootstrap-select.scss</tspan>
-<tspan x="10" y="3338">207.  2017-04-21 09:05:58 +0000      323 bytes  sass/variables.scss</tspan>
-<tspan x="10" y="3354">208.  2017-04-21 09:05:58 +0000    10585 bytes  test.html</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 09:46:27 +0000   800375 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 09:46:27 +0000     7850 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 09:46:27 +0000     4867 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 09:46:27 +0000     7211 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 09:46:27 +0000     1109 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 09:46:27 +0000     4859 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 09:46:27 +0000      592 bytes  bower.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 09:46:27 +0000      629 bytes  composer.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 09:46:27 +0000     7768 bytes  dist/css/bootstrap-select.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 09:46:27 +0000    16645 bytes  dist/css/bootstrap-select.css.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 09:46:27 +0000     6655 bytes  dist/css/bootstrap-select.min.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 09:46:27 +0000    71727 bytes  dist/js/bootstrap-select.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 09:46:27 +0000    39003 bytes  dist/js/bootstrap-select.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 09:46:27 +0000    33963 bytes  dist/js/bootstrap-select.min.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 09:46:27 +0000     1882 bytes  dist/js/i18n/defaults-ar_AR.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 09:46:27 +0000     1308 bytes  dist/js/i18n/defaults-ar_AR.min.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 09:46:27 +0000     1755 bytes  dist/js/i18n/defaults-bg_BG.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 09:46:27 +0000     1186 bytes  dist/js/i18n/defaults-bg_BG.min.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 09:46:27 +0000     1546 bytes  dist/js/i18n/defaults-cro_CRO.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 09:46:27 +0000      977 bytes  dist/js/i18n/defaults-cro_CRO.min.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 09:46:27 +0000     1153 bytes  dist/js/i18n/defaults-cs_CZ.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 09:46:27 +0000      735 bytes  dist/js/i18n/defaults-cs_CZ.min.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 09:46:27 +0000     1484 bytes  dist/js/i18n/defaults-da_DK.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 09:46:27 +0000      897 bytes  dist/js/i18n/defaults-da_DK.min.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 09:46:27 +0000     1521 bytes  dist/js/i18n/defaults-de_DE.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 09:46:27 +0000      952 bytes  dist/js/i18n/defaults-de_DE.min.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 09:46:27 +0000     1469 bytes  dist/js/i18n/defaults-en_US.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 09:46:27 +0000      900 bytes  dist/js/i18n/defaults-en_US.min.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 09:46:27 +0000     1239 bytes  dist/js/i18n/defaults-es_CL.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 09:46:27 +0000      807 bytes  dist/js/i18n/defaults-es_CL.min.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 09:46:27 +0000     1239 bytes  dist/js/i18n/defaults-es_ES.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 09:46:27 +0000      807 bytes  dist/js/i18n/defaults-es_ES.min.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 09:46:27 +0000     1155 bytes  dist/js/i18n/defaults-eu.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 09:46:27 +0000      737 bytes  dist/js/i18n/defaults-eu.min.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 09:46:27 +0000     1357 bytes  dist/js/i18n/defaults-fa_IR.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 09:46:27 +0000      895 bytes  dist/js/i18n/defaults-fa_IR.min.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 09:46:27 +0000     1496 bytes  dist/js/i18n/defaults-fi_FI.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-25 09:46:27 +0000      828 bytes  dist/js/i18n/defaults-fi_FI.min.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-25 09:46:27 +0000     1546 bytes  dist/js/i18n/defaults-fr_FR.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-25 09:46:27 +0000      976 bytes  dist/js/i18n/defaults-fr_FR.min.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-25 09:46:27 +0000     1322 bytes  dist/js/i18n/defaults-hu_HU.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-25 09:46:27 +0000      798 bytes  dist/js/i18n/defaults-hu_HU.min.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-25 09:46:27 +0000     1187 bytes  dist/js/i18n/defaults-id_ID.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-25 09:46:27 +0000      757 bytes  dist/js/i18n/defaults-id_ID.min.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-25 09:46:27 +0000     1344 bytes  dist/js/i18n/defaults-it_IT.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-25 09:46:27 +0000      860 bytes  dist/js/i18n/defaults-it_IT.min.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-25 09:46:27 +0000     1383 bytes  dist/js/i18n/defaults-ko_KR.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-25 09:46:27 +0000      859 bytes  dist/js/i18n/defaults-ko_KR.min.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-25 09:46:27 +0000     1564 bytes  dist/js/i18n/defaults-lt_LT.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-25 09:46:27 +0000      995 bytes  dist/js/i18n/defaults-lt_LT.min.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-25 09:46:27 +0000     1490 bytes  dist/js/i18n/defaults-nb_NO.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-25 09:46:27 +0000      834 bytes  dist/js/i18n/defaults-nb_NO.min.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-25 09:46:27 +0000     1154 bytes  dist/js/i18n/defaults-nl_NL.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-25 09:46:27 +0000      736 bytes  dist/js/i18n/defaults-nl_NL.min.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-25 09:46:27 +0000     1237 bytes  dist/js/i18n/defaults-pl_PL.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-25 09:46:27 +0000      805 bytes  dist/js/i18n/defaults-pl_PL.min.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-25 09:46:27 +0000     1154 bytes  dist/js/i18n/defaults-pt_BR.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-25 09:46:27 +0000      736 bytes  dist/js/i18n/defaults-pt_BR.min.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-25 09:46:27 +0000     1145 bytes  dist/js/i18n/defaults-pt_PT.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-25 09:46:27 +0000      751 bytes  dist/js/i18n/defaults-pt_PT.min.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-25 09:46:27 +0000     1169 bytes  dist/js/i18n/defaults-ro_RO.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-25 09:46:27 +0000      751 bytes  dist/js/i18n/defaults-ro_RO.min.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-25 09:46:27 +0000     1390 bytes  dist/js/i18n/defaults-ru_RU.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-25 09:46:27 +0000      947 bytes  dist/js/i18n/defaults-ru_RU.min.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-25 09:46:27 +0000     1262 bytes  dist/js/i18n/defaults-sk_SK.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-25 09:46:27 +0000      830 bytes  dist/js/i18n/defaults-sk_SK.min.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-25 09:46:27 +0000     1337 bytes  dist/js/i18n/defaults-sl_SI.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-25 09:46:27 +0000      814 bytes  dist/js/i18n/defaults-sl_SI.min.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-25 09:46:27 +0000     1387 bytes  dist/js/i18n/defaults-sv_SE.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-25 09:46:27 +0000      846 bytes  dist/js/i18n/defaults-sv_SE.min.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-25 09:46:27 +0000     1546 bytes  dist/js/i18n/defaults-tr_TR.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-25 09:46:27 +0000      892 bytes  dist/js/i18n/defaults-tr_TR.min.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-25 09:46:27 +0000     1236 bytes  dist/js/i18n/defaults-ua_UA.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-25 09:46:27 +0000      818 bytes  dist/js/i18n/defaults-ua_UA.min.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-25 09:46:27 +0000     1131 bytes  dist/js/i18n/defaults-zh_CN.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-25 09:46:27 +0000      715 bytes  dist/js/i18n/defaults-zh_CN.min.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-25 09:46:27 +0000     1208 bytes  dist/js/i18n/defaults-zh_TW.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-25 09:46:27 +0000      778 bytes  dist/js/i18n/defaults-zh_TW.min.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-25 09:46:27 +0000     4460 bytes  docs/custom_theme/base.html</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-25 09:46:27 +0000     2544 bytes  docs/custom_theme/css/base.css</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-25 09:46:27 +0000    14278 bytes  docs/custom_theme/img/logos/convertizer.png</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-25 09:46:27 +0000     6274 bytes  docs/custom_theme/img/logos/estimateit.png</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-25 09:46:27 +0000    10383 bytes  docs/custom_theme/img/logos/membermeister.png</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-25 09:46:27 +0000    30441 bytes  docs/custom_theme/img/logos/snapappointments.png</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-25 09:46:27 +0000    12766 bytes  docs/custom_theme/img/logos/solveforall.png</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-25 09:46:27 +0000     5817 bytes  docs/custom_theme/img/logos/thermofisher.png</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-25 09:46:27 +0000      443 bytes  docs/custom_theme/js/base.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-25 09:46:27 +0000     2021 bytes  docs/custom_theme/nav.html</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-25 09:46:27 +0000      510 bytes  docs/custom_theme/toc.html</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-25 09:46:27 +0000     5685 bytes  docs/docs/css/custom.css</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-25 09:46:27 +0000     7768 bytes  docs/docs/dist/css/bootstrap-select.css</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-25 09:46:27 +0000    16645 bytes  docs/docs/dist/css/bootstrap-select.css.map</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-25 09:46:27 +0000     6655 bytes  docs/docs/dist/css/bootstrap-select.min.css</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-25 09:46:27 +0000    71727 bytes  docs/docs/dist/js/bootstrap-select.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-25 09:46:27 +0000    39003 bytes  docs/docs/dist/js/bootstrap-select.js.map</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-25 09:46:27 +0000    33963 bytes  docs/docs/dist/js/bootstrap-select.min.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-25 09:46:27 +0000     1882 bytes  docs/docs/dist/js/i18n/defaults-ar_AR.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-25 09:46:27 +0000     1308 bytes  docs/docs/dist/js/i18n/defaults-ar_AR.min.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-25 09:46:27 +0000     1755 bytes  docs/docs/dist/js/i18n/defaults-bg_BG.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-25 09:46:27 +0000     1186 bytes  docs/docs/dist/js/i18n/defaults-bg_BG.min.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-25 09:46:27 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-cro_CRO.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-25 09:46:27 +0000      977 bytes  docs/docs/dist/js/i18n/defaults-cro_CRO.min.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-25 09:46:27 +0000     1153 bytes  docs/docs/dist/js/i18n/defaults-cs_CZ.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-25 09:46:27 +0000      735 bytes  docs/docs/dist/js/i18n/defaults-cs_CZ.min.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-25 09:46:27 +0000     1484 bytes  docs/docs/dist/js/i18n/defaults-da_DK.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-25 09:46:27 +0000      897 bytes  docs/docs/dist/js/i18n/defaults-da_DK.min.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-25 09:46:27 +0000     1521 bytes  docs/docs/dist/js/i18n/defaults-de_DE.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-25 09:46:27 +0000      952 bytes  docs/docs/dist/js/i18n/defaults-de_DE.min.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-25 09:46:27 +0000     1469 bytes  docs/docs/dist/js/i18n/defaults-en_US.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-25 09:46:27 +0000      900 bytes  docs/docs/dist/js/i18n/defaults-en_US.min.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-25 09:46:27 +0000     1239 bytes  docs/docs/dist/js/i18n/defaults-es_CL.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-25 09:46:27 +0000      807 bytes  docs/docs/dist/js/i18n/defaults-es_CL.min.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-25 09:46:27 +0000     1239 bytes  docs/docs/dist/js/i18n/defaults-es_ES.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-25 09:46:27 +0000      807 bytes  docs/docs/dist/js/i18n/defaults-es_ES.min.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-25 09:46:27 +0000     1155 bytes  docs/docs/dist/js/i18n/defaults-eu.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-25 09:46:27 +0000      737 bytes  docs/docs/dist/js/i18n/defaults-eu.min.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-25 09:46:27 +0000     1357 bytes  docs/docs/dist/js/i18n/defaults-fa_IR.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-25 09:46:27 +0000      895 bytes  docs/docs/dist/js/i18n/defaults-fa_IR.min.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-25 09:46:27 +0000     1496 bytes  docs/docs/dist/js/i18n/defaults-fi_FI.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-25 09:46:27 +0000      828 bytes  docs/docs/dist/js/i18n/defaults-fi_FI.min.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-25 09:46:27 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-fr_FR.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-25 09:46:27 +0000      976 bytes  docs/docs/dist/js/i18n/defaults-fr_FR.min.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-25 09:46:27 +0000     1322 bytes  docs/docs/dist/js/i18n/defaults-hu_HU.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-25 09:46:27 +0000      798 bytes  docs/docs/dist/js/i18n/defaults-hu_HU.min.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-25 09:46:27 +0000     1187 bytes  docs/docs/dist/js/i18n/defaults-id_ID.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-25 09:46:27 +0000      757 bytes  docs/docs/dist/js/i18n/defaults-id_ID.min.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-25 09:46:27 +0000     1344 bytes  docs/docs/dist/js/i18n/defaults-it_IT.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-25 09:46:27 +0000      860 bytes  docs/docs/dist/js/i18n/defaults-it_IT.min.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-25 09:46:27 +0000     1383 bytes  docs/docs/dist/js/i18n/defaults-ko_KR.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-25 09:46:27 +0000      859 bytes  docs/docs/dist/js/i18n/defaults-ko_KR.min.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-25 09:46:27 +0000     1564 bytes  docs/docs/dist/js/i18n/defaults-lt_LT.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-25 09:46:27 +0000      995 bytes  docs/docs/dist/js/i18n/defaults-lt_LT.min.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-25 09:46:27 +0000     1490 bytes  docs/docs/dist/js/i18n/defaults-nb_NO.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-25 09:46:27 +0000      834 bytes  docs/docs/dist/js/i18n/defaults-nb_NO.min.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-25 09:46:27 +0000     1154 bytes  docs/docs/dist/js/i18n/defaults-nl_NL.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-25 09:46:27 +0000      736 bytes  docs/docs/dist/js/i18n/defaults-nl_NL.min.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-25 09:46:27 +0000     1237 bytes  docs/docs/dist/js/i18n/defaults-pl_PL.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-25 09:46:27 +0000      805 bytes  docs/docs/dist/js/i18n/defaults-pl_PL.min.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-25 09:46:27 +0000     1154 bytes  docs/docs/dist/js/i18n/defaults-pt_BR.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-25 09:46:27 +0000      736 bytes  docs/docs/dist/js/i18n/defaults-pt_BR.min.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-25 09:46:27 +0000     1145 bytes  docs/docs/dist/js/i18n/defaults-pt_PT.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-25 09:46:27 +0000      751 bytes  docs/docs/dist/js/i18n/defaults-pt_PT.min.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-25 09:46:27 +0000     1169 bytes  docs/docs/dist/js/i18n/defaults-ro_RO.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-25 09:46:27 +0000      751 bytes  docs/docs/dist/js/i18n/defaults-ro_RO.min.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-25 09:46:27 +0000     1390 bytes  docs/docs/dist/js/i18n/defaults-ru_RU.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-25 09:46:27 +0000      947 bytes  docs/docs/dist/js/i18n/defaults-ru_RU.min.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-25 09:46:27 +0000     1262 bytes  docs/docs/dist/js/i18n/defaults-sk_SK.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-25 09:46:27 +0000      830 bytes  docs/docs/dist/js/i18n/defaults-sk_SK.min.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-25 09:46:27 +0000     1337 bytes  docs/docs/dist/js/i18n/defaults-sl_SI.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-25 09:46:27 +0000      814 bytes  docs/docs/dist/js/i18n/defaults-sl_SI.min.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-25 09:46:27 +0000     1387 bytes  docs/docs/dist/js/i18n/defaults-sv_SE.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-25 09:46:27 +0000      846 bytes  docs/docs/dist/js/i18n/defaults-sv_SE.min.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-25 09:46:27 +0000     1546 bytes  docs/docs/dist/js/i18n/defaults-tr_TR.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-25 09:46:27 +0000      892 bytes  docs/docs/dist/js/i18n/defaults-tr_TR.min.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-25 09:46:27 +0000     1236 bytes  docs/docs/dist/js/i18n/defaults-ua_UA.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-25 09:46:27 +0000      818 bytes  docs/docs/dist/js/i18n/defaults-ua_UA.min.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-25 09:46:27 +0000     1131 bytes  docs/docs/dist/js/i18n/defaults-zh_CN.js</tspan>
+<tspan x="10" y="2538">157.  2017-04-25 09:46:27 +0000      715 bytes  docs/docs/dist/js/i18n/defaults-zh_CN.min.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-25 09:46:27 +0000     1208 bytes  docs/docs/dist/js/i18n/defaults-zh_TW.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-25 09:46:27 +0000      778 bytes  docs/docs/dist/js/i18n/defaults-zh_TW.min.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-25 09:46:27 +0000    25227 bytes  docs/docs/examples.md</tspan>
+<tspan x="10" y="2602">161.  2017-04-25 09:46:27 +0000     3241 bytes  docs/docs/index.md</tspan>
+<tspan x="10" y="2618">162.  2017-04-25 09:46:27 +0000     6123 bytes  docs/docs/methods.md</tspan>
+<tspan x="10" y="2634">163.  2017-04-25 09:46:27 +0000    12205 bytes  docs/docs/options.md</tspan>
+<tspan x="10" y="2650">164.  2017-04-25 09:46:27 +0000      266 bytes  docs/docs/playground/index.html</tspan>
+<tspan x="10" y="2666">165.  2017-04-25 09:46:27 +0000     2139 bytes  docs/docs/playground/plnkrOpener.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-25 09:46:27 +0000    10141 bytes  docs/docs/playground/test.html</tspan>
+<tspan x="10" y="2698">167.  2017-04-25 09:46:27 +0000      557 bytes  docs/mkdocs.yml</tspan>
+<tspan x="10" y="2714">168.  2017-04-25 09:46:27 +0000    70944 bytes  js/bootstrap-select.js</tspan>
+<tspan x="10" y="2730">169.  2017-04-25 09:46:27 +0000     1099 bytes  js/i18n/defaults-ar_AR.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-25 09:46:27 +0000     1087 bytes  js/i18n/defaults-bg_BG.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-25 09:46:27 +0000      878 bytes  js/i18n/defaults-cro_CRO.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-25 09:46:27 +0000      480 bytes  js/i18n/defaults-cs_CZ.js</tspan>
+<tspan x="10" y="2794">173.  2017-04-25 09:46:27 +0000      813 bytes  js/i18n/defaults-da_DK.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-25 09:46:27 +0000      872 bytes  js/i18n/defaults-de_DE.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-25 09:46:27 +0000      805 bytes  js/i18n/defaults-en_US.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-25 09:46:27 +0000      567 bytes  js/i18n/defaults-es_CL.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-25 09:46:27 +0000      567 bytes  js/i18n/defaults-es_ES.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-25 09:46:27 +0000      472 bytes  js/i18n/defaults-eu.js</tspan>
+<tspan x="10" y="2890">179.  2017-04-25 09:46:27 +0000      682 bytes  js/i18n/defaults-fa_IR.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-25 09:46:27 +0000      826 bytes  js/i18n/defaults-fi_FI.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-25 09:46:27 +0000      885 bytes  js/i18n/defaults-fr_FR.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-25 09:46:27 +0000      654 bytes  js/i18n/defaults-hu_HU.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-25 09:46:27 +0000      540 bytes  js/i18n/defaults-id_ID.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-25 09:46:27 +0000      740 bytes  js/i18n/defaults-it_IT.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-25 09:46:27 +0000      716 bytes  js/i18n/defaults-ko_KR.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-25 09:46:27 +0000      899 bytes  js/i18n/defaults-lt_LT.js</tspan>
+<tspan x="10" y="3018">187.  2017-04-25 09:46:27 +0000      830 bytes  js/i18n/defaults-nb_NO.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-25 09:46:27 +0000      530 bytes  js/i18n/defaults-nl_NL.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-25 09:46:27 +0000      565 bytes  js/i18n/defaults-pl_PL.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-25 09:46:27 +0000      558 bytes  js/i18n/defaults-pt_BR.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-25 09:46:27 +0000      542 bytes  js/i18n/defaults-pt_PT.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-25 09:46:27 +0000      538 bytes  js/i18n/defaults-ro_RO.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-25 09:46:27 +0000      747 bytes  js/i18n/defaults-ru_RU.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-25 09:46:27 +0000      590 bytes  js/i18n/defaults-sk_SK.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-25 09:46:27 +0000      670 bytes  js/i18n/defaults-sl_SI.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-25 09:46:27 +0000      716 bytes  js/i18n/defaults-sv_SE.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-25 09:46:27 +0000      900 bytes  js/i18n/defaults-tr_TR.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-25 09:46:27 +0000      590 bytes  js/i18n/defaults-ua_UA.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-25 09:46:27 +0000      459 bytes  js/i18n/defaults-zh_CN.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-25 09:46:27 +0000      537 bytes  js/i18n/defaults-zh_TW.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-25 09:46:27 +0000     6744 bytes  less/bootstrap-select.less</tspan>
+<tspan x="10" y="3258">202.  2017-04-25 09:46:27 +0000      278 bytes  less/variables.less</tspan>
+<tspan x="10" y="3274">203.  2017-04-25 09:46:27 +0000     1035 bytes  nuget/MyGet.ps1</tspan>
+<tspan x="10" y="3290">204.  2017-04-25 09:46:27 +0000     1110 bytes  nuget/bootstrap-select.nuspec</tspan>
+<tspan x="10" y="3306">205.  2017-04-25 09:46:27 +0000     3646 bytes  package.json</tspan>
+<tspan x="10" y="3322">206.  2017-04-25 09:46:27 +0000     7166 bytes  sass/bootstrap-select.scss</tspan>
+<tspan x="10" y="3338">207.  2017-04-25 09:46:27 +0000      323 bytes  sass/variables.scss</tspan>
+<tspan x="10" y="3354">208.  2017-04-25 09:46:27 +0000    10585 bytes  test.html</tspan>
 </text>
 </svg>
