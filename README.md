@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-bootstrap-select/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-bootstrap-select/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-bootstrap-select/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-bootstrap-select/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bootstrap-select/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bootstrap-select/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-bootstrap-select/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-bootstrap-select/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bootstrap-select/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bootstrap-select/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-bootstrap-select/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-bootstrap-select/build/coverage.html/index.html)
 
@@ -35,15 +35,12 @@
 ```json
 
 {
-    "name": "bootstrap-select",
-    "title": "bootstrap-select",
-    "main": "dist/js/bootstrap-select.js",
-    "description": "Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to style and bring additional functionality to standard select elements.",
-    "version": "1.12.2",
-    "homepage": "http://silviomoreto.github.io/bootstrap-select",
     "author": {
         "name": "Silvio Moreto",
         "url": "https://github.com/silviomoreto"
+    },
+    "bugs": {
+        "url": "https://github.com/silviomoreto/bootstrap-select/issues"
     },
     "contributors": [
         {
@@ -67,14 +64,10 @@
             "url": "https://github.com/t0xicCode"
         }
     ],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/silviomoreto/bootstrap-select.git"
-    },
-    "license": "MIT",
     "dependencies": {
         "jquery": ">=1.8"
     },
+    "description": "Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to style and bring additional functionality to standard select elements.",
     "devDependencies": {
         "grunt": "^1.0.1",
         "grunt-autoprefixer": "^3.0.4",
@@ -93,12 +86,39 @@
         "grunt-version": "^1.1.1",
         "load-grunt-tasks": "^3.5.2"
     },
+    "directories": {},
+    "dist": {
+        "shasum": "58d095b3fd584b31443866fbe39b6fdd4e4e12a4",
+        "tarball": "https://registry.npmjs.org/bootstrap-select/-/bootstrap-select-1.12.2.tgz"
+    },
+    "gitHead": "4eb040b7097fd8eab8184e54efe973ce8468e9b2",
+    "homepage": "http://silviomoreto.github.io/bootstrap-select",
     "keywords": [
         "form",
         "bootstrap",
         "select",
         "replacement"
-    ]
+    ],
+    "license": "MIT",
+    "main": "dist/js/bootstrap-select.js",
+    "maintainers": [
+        {
+            "name": "t0xiccode"
+        },
+        {
+            "name": "caseyjhol"
+        }
+    ],
+    "name": "bootstrap-select",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/silviomoreto/bootstrap-select.git"
+    },
+    "scripts": {},
+    "title": "bootstrap-select",
+    "version": "1.12.2",
+    "bin": {}
 }
 ```
 
